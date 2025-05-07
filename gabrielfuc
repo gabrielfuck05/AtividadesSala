@@ -1,1 +1,32 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>agencia de viagens</title>
+     <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header "kaushan-script-regular">
+      <div class="layout">
+        <!--classe -->
+        <h3><img
+          src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGR6MmRiZ25rNTQyd3dpb3JmbGxubmNxZjU0b3hydmxmejNjZTc5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqUx9iazNy50fjlMpR/giphy.gif"
+          alt="logo"
+          class="src"
+        />TRAVEL</h3>
+        <nav class="nave">
+        <a href="#">Home</a>
+        <a href="#">Turismo list</a>
+        <a href="#">Destinos</a>
+      
+        </nav>
+    </header>
+  </div>
